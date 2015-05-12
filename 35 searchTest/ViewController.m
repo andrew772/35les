@@ -4,11 +4,7 @@
 //
 //  Created by Андрей on 4/21/15.
 //  Copyright (c) 2015 Андрей. All rights reserved.
-//
-// this is new coment
-//222222222222222222222222
-//12121212121212121212121212121212211212121
-//56565655656565656565656565656565656565
+
 #import "ViewController.h"
 #import "NSString+Random.h"
 #import "section.h"
